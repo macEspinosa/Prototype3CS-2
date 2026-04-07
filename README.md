@@ -5,4 +5,4 @@ This project demonstrates the **Prototype Design Pattern** by implementing an an
 
 ### UML Diagram
 
-[UML Diagram](UMLImage/UML.png)
+![UML Diagram](UMLImage/UML.png)
